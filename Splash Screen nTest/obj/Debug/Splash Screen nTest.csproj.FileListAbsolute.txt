@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\bin\Debug\Splash Screen nTest.exe.config
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\bin\Debug\Splash Screen nTest.exe
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\bin\Debug\Splash Screen nTest.pdb
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash Screen nTest.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash_Screen_nTest.MainScreen.resources
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash_Screen_nTest.Properties.Resources.resources
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash_Screen_nTest.SplashScreen.resources
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash Screen nTest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash Screen nTest.exe
+C:\Users\admin\source\repos\Splash Screen nTest\Splash Screen nTest\obj\Debug\Splash Screen nTest.pdb
